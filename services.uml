@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>by.bsuir.filinovichsa.adkpproject.services</OriginalElement>
+  <nodes>
+    <node x="720.0" y="453.0">by.bsuir.filinovichsa.adkpproject.services.AdService</node>
+    <node x="606.0" y="730.0">by.bsuir.filinovichsa.adkpproject.factories.AdFactory</node>
+    <node x="297.0" y="730.0">by.bsuir.filinovichsa.adkpproject.utils.HibernateSessionFactoryUtil</node>
+    <node x="383.75" y="286.25">by.bsuir.filinovichsa.adkpproject.support.SupportMessage</node>
+    <node x="226.0" y="453.0">by.bsuir.filinovichsa.adkpproject.services.BankAccService</node>
+    <node x="0.0" y="453.0">by.bsuir.filinovichsa.adkpproject.services.DealService</node>
+    <node x="710.0" y="0.0">by.bsuir.filinovichsa.adkpproject.services.SupportService</node>
+    <node x="0.0" y="0.0">by.bsuir.filinovichsa.adkpproject.services.UserService</node>
+    <node x="382.0" y="0.0">by.bsuir.filinovichsa.adkpproject.services.AdminService</node>
+    <node x="475.0" y="453.0">by.bsuir.filinovichsa.adkpproject.services.ProductService</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.8" x="161.75" y="512.5" />
+  <SelectedNodes>
+    <node>by.bsuir.filinovichsa.adkpproject.support.SupportMessage</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

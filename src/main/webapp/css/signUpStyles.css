@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://images.wallpaperscraft.ru/image/poverhnost_svetlyy_fon_list_50523_1920x1080.jpg");
+}
+
+.inputForm, .inputDescription {
+    width: 450px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.inputDescription {
+    height: 200px;
+}
+.buttons {
+    font-size: 16px;
+}
+.bigButtons {
+    font-size: 20px;
+}
+
+.main {
+    position: absolute;
+    top: 50px;
+    bottom: 60px;
+    text-align: center;
+    overflow: auto;
+}
+
+body .content .main {
+    width: 100%;
+}
+
+body .blocks .content .main {
+    width: auto;
+}
+
+.content {
+    justify-content: center;
+    display: flex;
+    overflow: auto;
+}
+
+.firstOption {
+    color: grey;
+}
+
+textarea {
+    resize: none;
+}
+
+.blocks {
+    float: left;
+    height: 90%;
+    width: 30%;
+    padding: 5px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+/*#block1, #block2 {*/
+/*    padding: 5px;*/
+/*    margin: 10px;*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*#block1 {*/
+/*    width: 33%;*/
+/*}*/
+
+/*#block2 {*/
+/*    width: 33%;*/
+/*}*/
+
+.account  {
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 7px;
+    margin: 7px;
+    width: 33%;
+}

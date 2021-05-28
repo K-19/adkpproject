@@ -1,0 +1,195 @@
+body {
+    background-image: url("https://images.wallpaperscraft.ru/image/poverhnost_svetlyy_fon_list_50523_1920x1080.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+.scrolling {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    bottom: 0;
+    top: 0;
+}
+
+.main {
+    display: block;
+    position: relative;
+    height: auto;
+    min-height: 100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    bottom: 0;
+    background-color: #f2f3f4;
+    top: 0;
+}
+
+.content {
+    position: relative;
+    padding-bottom: 90px;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 92.4%;
+    text-align: center;
+}
+
+.input-field, .input-field-text {
+    position: relative;
+    text-align: right;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.input-field {
+    height: 50px;
+}
+
+.input-field-info {
+    min-height: 30px;
+    height: auto;
+    overflow: auto;
+}
+
+.input-field-text {
+    height: 100px;
+}
+
+.label-block, .info-block {
+    float: left;
+    font-size: 18px;
+    height: 100%;
+}
+
+.label-block {
+    font-weight: bolder;
+    width: 25%;
+    padding-right: 5%;
+}
+
+.info-block {
+    width: 70%;
+}
+
+.info-block input, .info-block select {
+    width: 100%;
+    font-size: 20px;
+    height: 60%;
+}
+
+.info-block textarea {
+    width: 100%;
+    font-size: 16px;
+    height: 100%;
+    resize: none;
+}
+
+.left-child, .right-child{
+    float: left;
+    font-size: 18px;
+    height: 100%;
+}
+
+.left-child {
+    width: 45%;
+    padding-right: 5%;
+    text-align: right;
+}
+
+.right-child{
+    text-align: left;
+    width: 50%;
+}
+
+.info-left, .info-right {
+    float: left;
+    font-size: 22px;
+    height: auto;
+    text-align: left;
+}
+
+.info-left {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.info-right {
+    width: 50%;
+    font-weight: bold;
+}
+
+.button {
+    font-size: 18px;
+    padding: 5px;
+    background-color: #00aceb;
+    border: none;
+    box-shadow: 0 0 8px #002d4e;
+}
+
+.button:hover {
+    background-color: #0094ff;
+}
+
+.smallButton, .cancelButton, .usersButton {
+    font-size: 16px;
+    padding: 5px;
+    border: none;
+    margin: 4px;
+}
+
+.smallButton, .usersButton {
+    background-color: #00d1eb;
+    box-shadow: 0 0 4px #002d4e;
+}
+
+.smallButton:hover, .usersButton:hover {
+    background-color: #00c4dc;
+}
+
+.usersButton {
+    width: 100%;
+}
+
+.cancelButton {
+    background-color: orangered;
+    box-shadow: 0 0 4px #6c2823;
+}
+
+.cancelButton:hover {
+    background-color: #ca443e;
+}
+
+.margin-bottom {
+    margin-bottom: 40px
+}
+
+.account {
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 7px;
+    width: 90%;
+    margin: 20px auto 10px;
+}
+
+.typeAd {
+    color: #04b4ff;
+    font-weight: bolder;
+}
+
+.smallHeadText {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hello_description_text {
+    font-size: 18px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 430px;
+}

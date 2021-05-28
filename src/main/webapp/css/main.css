@@ -1,0 +1,12 @@
+.mainButtons {
+    font-size: 24px;
+    padding: 5px;
+    background-color: #04b4ff;
+    border: none;
+    box-shadow: 0 0 10px #002d4e;
+    width: 30%;
+}
+
+.mainButtons:hover {
+    background-color: #0094ff;
+}
